@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Pine tree + Vehicle badge -->
+    <!-- Pine Tree Silhouette in bright warm gold/white -->
+    <path
+        android:fillColor="#52B788"
+        android:pathData="M54,28L63,40H58L66,51H60L68,62H56V67H52V62H40L48,51H42L50,40H45Z" />
+    <!-- Golden Cadastral / Vehicle Shield Element -->
+    <path
+        android:fillColor="#D8F3DC"
+        android:pathData="M54,24L41,36H47L38,48H44L36,60H49V68H59V60H72L64,48H70L61,36H67Z" />
+    <path
+        android:fillColor="#DDA15E"
+        android:pathData="M51,68H57V72H51Z" />
+    <!-- Modern 4x4 / Car silhouette at base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,71C35,70 37,67 40,67L68,67C71,67 73,70 73,71L76,76C77,77.5 76,79 74,79L72,79C72,78 71,77 70,77C69,77 68,78 68,79L40,79C40,78 39,77 38,77C37,77 36,78 36,79L34,79C32,79 31,77.5 32,76L35,71Z" />
+    <!-- Wheels -->
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M40,78m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#1B4332"
+        android:pathData="M68,78m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#DDA15E"
+        android:pathData="M40,78m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path
+        android:fillColor="#DDA15E"
+        android:pathData="M68,78m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+</vector>

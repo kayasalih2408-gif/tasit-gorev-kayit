@@ -1,0 +1,6 @@
+{
+  "name": "Taşıt Görev Kayıt",
+  "description": "Orman Genel Müdürlüğü 57 Nolu Orman Kadastro Başmühendisliği Taşıt Görev Kayıt ve PDF Raporlama Uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
